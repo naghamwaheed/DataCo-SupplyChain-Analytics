@@ -45,8 +45,6 @@ Due to the dataset size (~180K rows), refresh performance became impractical for
 
 ![Google Apps Script](images/script.png)
 
-![Google Sheets Connection](images/connection.jpg)
-
 ### Automated Trigger
 
 ![Automated Trigger](images/trigger.png)
